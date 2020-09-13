@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "jamielong\\phpmvc": "./"
+            "jamielong\\phpmvc\\": "./"
         }
     }
 }
